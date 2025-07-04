@@ -28,6 +28,7 @@ To practice building an educational-style landing page using HTML, CSS, and Boot
 
 ![Preview 1](preview1.PNG)
 ![Preview 2](preview2.PNG)
+![Preview 3](preview3.PNG)
 
 ⚠️ **Note:**
 
